@@ -1,5 +1,4 @@
 # Django Twitter Clone by Rohan sharma
-# Registration/referral id-IIPRSS1813
 Fully functional Django App that looks ecxatlylike real Twitter.
 
 ## Setup
